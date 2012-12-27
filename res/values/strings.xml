@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Najdi auto</string>
+    <string name="app_desc">Aplikace Najdi auto pomůže v nalezení Vašeho automobilu v rozsáhlejším městě.</string>
+    <string name="menu_settings">Settings</string>
+    <string name="find_car">Najít automobil</string>
+    <string name="set_car">Nastavit pozici</string>
+    <string name="gps_wait">Čekám na GPS</string>
+    <string name="gps_error">Musíte povolit GPS</string>
+    <string name="save_car_gps">Uložit pozici auta</string>
+    <string name="save_car_gps_dialog">Opravdu chcete uložit tuto GPS pozici?</string>
+    <string name="save_car_saved">Pozice automobilu byla uložena</string>
+    <string name="gps_car">Pozice automolu</string>
+    <string name="yes">Ano</string>
+    <string name="no">Ne</string>
+    <string name="ok">OK</string>
+    <string name="gps">GPS</string>
+
+</resources>
